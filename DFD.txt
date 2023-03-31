@@ -1,0 +1,46 @@
+DFD:  "Dfd" typically refers to a data flow diagram, which is a graphical representation of how data flows through a system or process. 
+
+
+Real world Example : 
+
+	Input: Your DFD would start with the input data, which could be the quantity of products ordered from the supplier or the amount of products sold in the store.
+
+Processes: The next step is to model the various processes involved in inventory management, such as receiving, stocking, and selling products. Each of these processes involves data flows, such as the quantity of products received or sold.
+
+Data stores: Your DFD would also include data stores that hold information about the inventory, such as the quantity of products in stock and the location of each product.
+
+Output: Finally, your DFD would show the output data, which could be reports on inventory levels or sales figures.
+
+----Symbols and rules------	
+
+      Symbols used in DFDs:
+
+Square: Represents an external entity, such as a person or organization that interacts with the system.
+Circle: Represents a process or function that transforms data.
+Arrow: Represents the flow of data between external entities, processes, and data stores.
+Double line: Represents a data store, which is a repository for data that is used by the system.
+
+
+Rules used in DFDs:
+
+Data can not flow between two entities. –
+Data flow must be from entity to a process or a process to an entity. There can be multiple data flows between one entity and a process.
+
+Data can not flow between two data stores
+Data flow must be from data store to a process or a process to an data store. Data flow can occur from one data store to many process.
+
+Data can not flow directly from an entity to data store –
+Data Flow from entity must be processed by a process before going to data store and vice versa.
+
+A process must have atleast one input data flow and one output data flow –
+Every process must have input data flow to process the data and an output data flow for the processed data.
+
+A data store must have atleast one input data flow and one output data flow –
+Every data store must have input data flow to store the data and an output data flow for the retrieved data.
+
+Two data flows can not cross each other.
+
+All the process in the system must be linked to minimum one data store or any other process.
+		
+		
+===========================================================================================

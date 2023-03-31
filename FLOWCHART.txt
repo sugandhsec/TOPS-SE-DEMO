@@ -1,0 +1,45 @@
+Flowchart :  A flowchart is a graphical representation of a process or system. It uses standardized symbols and shapes to show the flow of information or materials through a process. 
+
+
+Real world Example : 
+
+	Here's an example of how a flowchart can be used in a manufacturing plant:
+
+Let's say a company produces cars. The production process starts with the assembly of various parts and components, and ends with the final product. To ensure that the production process runs smoothly and efficiently, the company may use a flowchart to map out each step of the process.
+
+The flowchart might begin with a symbol that represents the start of the process, followed by a symbol that represents the assembly of various car parts. Each step in the process would be represented by a symbol, such as a rectangle or diamond, with arrows pointing from one step to the next. The flowchart would also include symbols that represent decisions that need to be made, such as whether to use a certain type of part or component.
+
+As the production process continues, the flowchart would show each step, decision, and action that needs to be taken to ensure that the final product is completed successfully. The flowchart would end with a symbol that represents the final product, indicating that the production process is complete.
+
+----Symbols and rules------	
+Here are some common symbols used in flowcharts:
+
+Start/End symbol: It indicates the beginning and the end of the process.
+
+Process symbol: It represents a step or action in the process.
+
+Decision symbol: It indicates a branch or decision point in the process, and the flow can take different paths depending on the condition.
+
+Input/Output symbol: It represents an input or output operation, such as data entry or printing.
+
+Connector symbol: It is used to connect different parts of the flowchart.
+
+Arrow: It indicates the direction of the flow between different symbols.
+
+
+
+-------Here are some basic rules of flowcharting:------
+
+Each step in the flowchart should be clearly defined and easy to understand.
+
+The flowchart should be organized in a logical sequence that reflects the process being represented.
+
+The flowchart should be easy to follow and understand, with clear labels and symbols.
+
+The flowchart should use standardized symbols and shapes to ensure consistency and clarity.
+
+The flowchart should be free from ambiguity, and each symbol should have only one meaning.
+
+The flowchart should be easy to modify and update as the process changes over time.
+
+The flowchart should be reviewed and validated by the stakeholders to ensure accuracy and completeness.
