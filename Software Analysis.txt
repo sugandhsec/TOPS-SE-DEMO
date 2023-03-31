@@ -1,0 +1,9 @@
+Software Analysis: In this Step SRS document should be thoroughly understood by the developers and also should be reviewed by the customer for future reference.
+
+
+Real world Example : 
+             After knowing which type of requirement we need in our house we have to deeply and thoroughly analyse the quality of the material we use the labours, the structure of the house , and all the things same as that in software also we analyse the requirement given by the client and the developers and the client both analyse that things.
+		
+		
+		
+===========================================================================================

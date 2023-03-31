@@ -1,0 +1,18 @@
+WEB APPLICATIONS:   Web apps are designed to provide users with interactive experiences and can perform a wide range of functions, such as allowing users to create and edit documents, manage data, collaborate with others, or access various online services.
+
+
+Real world Example : 
+
+	Online Shopping: A web application that allows customers to browse products, add items to their cart, and complete the checkout process.
+
+Social Networking: A web application that enables users to create a profile, connect with others, and share content such as photos, videos, and messages.
+
+Banking: A web application that allows customers to view their account balances, transfer funds, pay bills, and perform other banking tasks online.
+
+		
+		
+syntax :
+       Examples of popular web apps include social media platforms like Facebook and Twitter, online marketplaces like Amazon and flipkart.
+		
+		
+===========================================================================================

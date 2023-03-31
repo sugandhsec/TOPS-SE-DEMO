@@ -1,0 +1,15 @@
+WEB APPLICATIONS:   A mobile application, or "app" for short, is a software application designed to run on mobile devices such as smartphones and tablets.
+
+
+Real world Example : 
+
+	Recipe App: A recipe app is a mobile application that provides users with a large collection of recipes for cooking various types of cuisines. It can also offer the feature of saving favorite recipes, creating grocery lists, and setting cooking timers. Imagine you're trying to prepare a complicated dish for a dinner party, and you're not sure how long it takes to cook. A recipe app can help you set a timer, so you don't have to keep an eye on the clock constantly.
+
+Grocery Shopping App: A grocery shopping app is a mobile application that enables users to make a grocery list and track their spending. This app can help you manage your grocery budget by keeping a record of what you've already bought and what you still need to buy. You can also add items to your shopping list as you think of them. For instance, you can add a few ingredients to your grocery list when you're cooking in the kitchen, so you don't forget them later.
+		
+		
+syntax :
+       Examples of popular mobile apps include social media platforms like Facebook and Twitter, online marketplaces like Amazon and flipkart.
+		
+		
+===========================================================================================

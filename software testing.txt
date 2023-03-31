@@ -1,0 +1,13 @@
+Software Testing:  The testing phase is a crucial step in the SDLC as it helps to identify any defects or errors in the software before it is released to the users 
+
+
+Real world Example : 
+
+		the testing team conducts more detailed testing to ensure that the project meets all of the project requirements and quality standards. This may involve testing individual components of the project, such as the electrical system or plumbing system, as well as conducting integrated system tests.
+		
+		
+syntax :
+        There are different types of testing that are performed during this phase such as unit testing, integration testing, system testing, and acceptance testing.
+		
+		
+===========================================================================================

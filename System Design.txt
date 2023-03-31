@@ -1,0 +1,13 @@
+Software DESIGN:  
+    SRS documents will be sent to developers. Developers will go through the documents and will understand requirements. Designers will be design web pages. Developers will prepare high level system architecture.
+
+Real world Example : 
+    All of you must have seen a big building, you see the buildings like their construction starts and ends, and the building gets ready, It had an architecture design in the back end, and there is an architect who prepares its entire design.  What is in the design, how many floors will there be, what will be there on each floor, how will be the internal structure, all these things happen, if you look at the blueprint of any building or house, then it has all the details that how some things are to be performed.  How is the structure of things supposed to be like this in the software also when we start making any software we get a requirement, we analyze it, and the designs are ready, what happens in Hindi science, then the designs of different parts sleep in it.  Are back end related like in this we make man diagram database related flow chart diagram make data related use case diagram that if anyone will use that software or product then how many possibilities and in how many ways and which ones  How to use the models, it is in all the details
+			
+syntax :
+        E-R diagram
+        flowchart
+        DFD
+        Use-Case Diagram
+		
+===========================================================================================

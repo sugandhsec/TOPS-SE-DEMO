@@ -1,0 +1,19 @@
+Software development life cycle is a process used by the software industry to develop a software in a systematic mannerthere are different steps included in this software development life cycle process
+
+Real world Example : 
+
+		If we have to cook a maggie then there is a step by step process of steps like first we have to purchase grocerries and vegetables and then we have cut the vegetables and then boil the maggie and then fry or vegtables and then put our boiled maggie in it and cook it for 5 minutes, same as that when we create a software then there is also a process containing different steps..
+
+steps---
+
+Requirements Gathering - If we have to cook a maggie then there is a step by step process of steps like first we have to purchase grocerries and vegetables and then we have cut the vegetables and then boil the maggie and then fry or vegtables and then put our boiled maggie in it and cook it for 5 minutes, same as that when we create a software then there is also a process containing different steps.. In cooking, this would involve figuring out what flavors and ingredients you want to incorporate into your dish.
+
+Design - This step involves creating a detailed plan for how the software will function and look. In cooking, this might involve deciding how you want to present your dish and arranging the ingredients in a visually appealing way.
+
+Development - This is the stage where the software is actually built. In cooking, this is where you actually prepare the dish by following the recipe and cooking the ingredients.
+
+Testing - In software development, this step involves testing the software to make sure it works correctly. In cooking, this might involve taste-testing your dish to make sure it's seasoned properly and checking to make sure it's cooked all the way through.
+
+Deployment - Once the software is tested and ready to go, it's time to release it to users. In cooking, this would involve plating your dish and serving it to your guests.
+
+Maintenance - After the software is released, it may require updates or fixes. In cooking, this would involve tweaking the recipe for future attempts or making adjustments to the dish based on feedback from your guests.

@@ -1,0 +1,13 @@
+Software Maintenance: The Software Maintenance Phase is the phase where software application is updated, enhanced, and modified to correct faults, improve performance, or adapt to a changing environment. This phase begins immediately after the software application is deployed to production and continues throughout the application's lifetime.
+
+
+Real world Example : 
+
+		For example, imagine a popular recipe for a chocolate cake that has been used for many years. Over time, new ingredients may become available or old ones may become less common or more expensive. In this case, the recipe would need to be updated to reflect these changes.
+		
+		
+syntax :
+       The maintenance phase of the SDLC is similar in that it involves ongoing updates and adjustments to the software to ensure it continues to meet the needs of its users. These updates could include bug fixes, security patches, or new features based on user feedback.
+		
+		
+===========================================================================================

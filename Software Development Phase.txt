@@ -1,0 +1,12 @@
+Software Development Process:  In this phase, the software design is transformed into executable code through the process of programming.
+
+Coding: This is the process of translating the design into programming code. The code is written in a programming language using various software development tools and techniques.
+
+The code for different components of the software is integrated to create a complete and functional software application.
+
+Real world Example : 
+
+		Once the design is finalized, you would start building your house by hiring contractors to lay the foundation, frame the walls, install plumbing and electrical systems, and so on.
+		
+		
+===========================================================================================

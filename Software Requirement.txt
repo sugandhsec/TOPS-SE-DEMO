@@ -1,0 +1,13 @@
+Software Requirements:   Software Requirement is the most important stage in SDLC. In this stage business analyst and project manager set up a meeting with customer and gather information about the product. Once the requirement is clearly defined, a SRS (Software Requirement Specification) document will be created.
+
+
+Real world Example : 
+
+		If we have to make house then first step is to know how much raw materials like bricks,cement,sand and all other thing we require, then we have to know about about how much labour we require and also how much amount we require same in case of software in place of raw materials we will gather information about which functionalities we need in the product and what is the need of the client or customer ,purpose of the software etc.
+		
+		
+syntax :
+        In this step a documentation is prepared which have all the basic information about the requirements of the software and this is called SRS (Software requirement specification)
+		
+		
+===========================================================================================
