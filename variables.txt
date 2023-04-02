@@ -1,0 +1,27 @@
+Basic Syntax: In C, a variable is a name given to a memory location to store a value. The value of a variable can be changed during program execution
+
+Real world Example : 
+        In a park, there may be various parameters that can be measured, such as the number of trees, the area of the park, the number of visitors, etc. These parameters can be represented by variables in C.
+
+For example, we can define a variable called "numTrees" to represent the number of trees in the park. This variable can be assigned a value using the assignment operator (=) like this:
+
+
+int numTrees = 500;
+Here, we have defined a variable called "numTrees" of type "int" (short for integer) and assigned it a value of 500.
+
+Similarly, we can define variables to represent other parameters of the park, such as:
+
+float parkArea = 10.5;
+int numVisitors = 1000;
+
+Here, we have defined a variable called "parkArea" of type "float" (short for floating-point number) and assigned it a value of 10.5. We have also defined a variable called "numVisitors" of type "int" and assigned it a value of 1000.
+
+These variables can be used in C programs to perform various calculations and operations. For example, we can calculate the density of trees in the park by dividing the number of trees by the park area like this:
+	
+    float treeDensity = numTrees / parkArea;
+
+  
+
+		
+		
+===========================================================================================

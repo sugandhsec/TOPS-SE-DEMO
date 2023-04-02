@@ -1,0 +1,19 @@
+Strings:  In C programming language, a string is a sequence of characters terminated by a null character '\0'. Strings are represented as arrays of characters.
+
+
+Real world Example : 
+
+	we can think of a string as a garland of flowers that we use to decorate our homes during festivals.
+
+Just like a garland, a string can be made up of different types of characters, such as letters, numbers, and symbols. We can use strings to represent all kinds of text, from simple phrases like "Happy New Year" to longer messages like poems and songs.
+		
+		
+syntax :
+char myString[100];
+
+ myString[] = "Hello, World!";
+
+
+		
+		
+===========================================================================================

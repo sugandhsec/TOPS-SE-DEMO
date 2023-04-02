@@ -1,0 +1,45 @@
+functions:    a function is a block of code that performs a specific task. It can take input, process it, and return output. Functions allow us to organize our code into reusable modules, making our programs easier to read, understand, and maintain.
+
+Real world Example : 
+
+	In construction, a project manager assigns different tasks to various teams such as the foundation team, framing team, electrical team, plumbing team, etc. Each team has a specific set of skills and expertise, and they work together to complete the construction project.
+
+Similarly, in programming, we can break down a large task into smaller subtasks and assign each subtask to a separate function. For example, we can create a function to calculate the area of a room, another function to calculate the cost of building materials, and a third function to calculate the labor cost.
+		
+		
+syntax :
+    Function Declaration:
+
+
+return_type function_name(parameter1, parameter2, ... , parameterN);
+
+return_type: This is the data type of the value that the function returns.
+function_name: This is the name of the function. It should be a descriptive name that indicates what the function does.
+parameter1, parameter2, ..., parameterN: These are the input parameters that the function takes. Each parameter has a data type and a name.
+
+
+Syntax for Function Definition:
+
+return_type function_name(parameter1, parameter2, ... , parameterN)
+{
+   // body of the function
+   // code to perform the specific task
+   return value;
+}
+return_type: This is the data type of the value that the function returns.
+function_name: This is the name of the function. It should match the name used in the function declaration.
+parameter1, parameter2, ..., parameterN: These are the input parameters that the function takes. Each parameter has a data type and a name.
+body of the function: This is the block of code that performs the specific task of the function.
+return statement: This is used to return a value from the function to the calling program. The return statement is optional and depends on the return type of the function.
+
+
+Syntax for Function Call:
+
+
+function_name(argument1, argument2, ..., argumentN);
+
+function_name: This is the name of the function that you want to call.
+argument1, argument2, ..., argumentN: These are the actual values that you pass to the function. The number and data type of the arguments must match the function declaration.
+		
+		
+===========================================================================================

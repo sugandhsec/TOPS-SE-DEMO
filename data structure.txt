@@ -1,0 +1,35 @@
+data structure:   C programming language, there are several data types that can be used to represent different kinds of values. 
+       
+
+Real world Example : 
+
+	
+Integer data type: This data type is used to represent whole numbers. For example, the number of students in a class or the number of desks in a classroom.
+
+Floating-point data type: This data type is used to represent decimal numbers. For example, the average grade of a student or the time it takes for a student to complete a test.
+
+Character data type: This data type is used to represent individual characters such as letters or symbols. For example, the first letter of a student's name or the symbol used to represent a grade (e.g., A, B, C, D, F).
+
+String data type: This data type is used to represent a sequence of characters. For example, the name of a student or the name of a class.
+
+		
+syntax :
+  
+int: Used to store integer values, which are whole numbers without any decimal points. For example, int age = 25;
+
+float: Used to store floating-point values, which are numbers with decimal points. For example, float price = 3.99;
+
+double: Similar to float, but with greater precision. Used to store floating-point values with more decimal places. For example, double salary = 50000.50;
+
+char: Used to store a single character value. For example, char grade = 'A';
+
+long: Used to store larger integer values than int. For example, long population = 1000000;
+
+short: Used to store smaller integer values than int. For example, short temperature = -10;
+
+unsigned: Used to store only positive integer values. For example, unsigned int count = 10;
+		
+		
+===========================================================================================
+
+

@@ -1,0 +1,60 @@
+looping statments :  In programming, a looping statement is a construct that allows a set of instructions to be executed repeatedly based on certain conditions. 
+
+
+Real world Example : 
+
+for loop----
+
+A real-world example of a for loop can be seen in construction work, such as building a brick wall. In this scenario, a for loop can be used to lay a certain number of bricks in each row, and repeat the process until the wall is complete.
+
+For instance, a construction worker might use a for loop to lay 10 bricks in each row of the wall, and repeat the process for 20 rows until the wall is completed. The loop will continue until the worker reaches the 20th row or until another condition is met (such as running out of bricks or a certain part of the wall being completed).
+
+while loop----
+for mixing the cement for the foundation.
+
+To mix the cement, the worker needs to add water to the cement powder and stir until it reaches the right consistency. However, the amount of water needed to achieve the right consistency can vary depending on factors like the temperature and humidity.
+
+To ensure that the cement is properly mixed, the worker could use a while loop. The loop could continue to add small amounts of water and stir until the consistency of the cement is just right. The condition for the loop to continue would be the consistency of the cement being too dry or too wet.
+
+do while loop---
+
+A real-world example of a do-while loop could be a construction worker using a power drill to dig a hole in the ground. The worker would continue drilling until the hole reaches a certain depth, and then stop. The process of drilling is similar to a do-while loop, in that the worker drills at least once before checking the depth of the hole to see if the drilling should continue.
+
+
+conveyor belt in a food factory.
+
+Imagine a conveyor belt that moves food items from one end to the other. The food items move along the belt, and at each stage, a certain operation is performed on them. For example, they might be washed, inspected, sorted, or packaged.
+
+In a looping statement, the code would specify the conditions under which the operations are to be repeated. For example, the operations might continue until all the food items have been processed, or until a certain number of items have been processed. Similarly, the conveyor belt would continue to move until all the food items have been processed or until a certain number of items have been moved along the belt.
+
+		
+		
+syntax :
+   
+
+For Loop:
+The for loop is used to repeat a set of instructions for a fixed number of times
+		
+		for (initialization; condition; increment/decrement)
+{
+   // statements to be executed
+}
+
+
+While Loop:
+The while loop is used to repeat a set of instructions until a specific condition is met. 
+
+while(condition)
+{
+   // statements to be executed
+}
+
+Do-While Loop:
+The do-while loop is used to repeat a set of instructions until a specific condition is met. 
+
+do
+{
+   // statements to be executed
+} while(condition);
+
+===========================================================================================

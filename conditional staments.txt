@@ -1,0 +1,50 @@
+Conditional Statements :  Conditional statements in C are programming constructs that allow a program to make decisions based on certain conditions. A conditional statement consists of a condition that is evaluated to either true or false, and a block of code that is executed only if the condition is true.
+
+
+Real world Example : 
+
+	Suppose you are a chef and you want to cook a dish based on the availability of ingredients. If you have all the necessary ingredients, you will cook the dish, but if any ingredient is missing, you will not cook it.
+
+In programming terms, this can be represented using an "if" statement. The condition in this case would be the availability of ingredients, and the block of code that is executed would be cooking the dish.
+
+		if (haveAllIngredients) {
+    cookDish();
+} else {
+    printf("Sorry, I cannot cook the dish as some ingredients are missing.");
+}
+In this example, the "haveAllIngredients" variable represents the condition that is being evaluated. If this variable is true (meaning you have all the ingredients), the "cookDish()" function will be executed. If the variable is false (meaning you are missing some ingredients).
+
+
+syntax :
+    1)Simple if
+
+       if (condition) {
+  // code to be executed if condition is true
+}
+
+	2)if else
+if (condition) {
+  // code to be executed if condition is true
+} else {
+  // code to be executed if condition is false
+}
+
+3)ladder if else
+
+if(condition1){
+   //code block to execute if condition1 is true
+}
+else if(condition2){
+   //code block to execute if condition2 is true
+}
+else if(condition3){
+   //code block to execute if condition3 is true
+}
+...
+else{
+   //code block to execute if none of the conditions are true
+}
+
+	
+		
+===========================================================================================

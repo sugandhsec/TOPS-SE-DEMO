@@ -1,0 +1,37 @@
+Basic Syntax:  The basic structure of a C program includes a preprocessor directive, global variables declaration, function declaration, and the main function.
+
+        Preprocessor directive: This is the first line of a C program, which starts with the # symbol and includes preprocessor commands.
+
+        Global variables declaration: In C, we declare variables that are accessible to all the functions in the program. 
+
+        Function declaration: In C, we define functions to perform specific operations on variables.
+
+        Main function: This is the main body of the program, which contains the instructions to execute the program.
+
+Real world Example : 
+
+	Preprocessor directive:  This step is similar to preparing ingredients for a meal. Before we start cooking, we need to gather all the necessary ingredients and prepare them for cooking.
+
+    Global variables declaration: In the context of preparing a meal, global variables could be the ingredients that we need for cooking the entire meal.
+
+    Function declaration:  In the context of preparing a meal, functions could be the individual recipes for each dish that we need to cook.
+
+    Main function:  In the context of preparing a meal, the main function would be the recipe that contains instructions for preparing the entire meal.
+		
+		
+syntax :
+  
+
+        #include<stdio.h> //preprocessor directive
+        int a=5; //global variables
+        void greeting() //function declaration
+        {
+            printf("hello");
+        }
+        int main() //main function
+        {
+            return 0;
+        }
+		
+		
+===========================================================================================

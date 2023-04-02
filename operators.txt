@@ -1,0 +1,59 @@
+Operators:  
+    an operator is a symbol or keyword that performs an operation on one or more operands.
+
+Real world Example : 
+   Arithmetic Operators:
+Arithmetic operators are used to perform mathematical operations on variables. Examples include addition (+), subtraction (-), multiplication (*), division (/), and modulus (%).
+Example:
+If you have a shopping cart with 10 items in it, and each item costs Rs.2, you can use the multiplication operator to calculate the total cost: 10 * 2 = 20.
+
+Comparison Operators:
+Comparison operators are used to compare two values and return a Boolean value (true or false) depending on the result. Examples include greater than (>), less than (<), equal to (==), not equal to (!=), greater than or equal to (>=), and less than or equal to (<=).
+Example:
+If you want to know if a person's age is greater than or equal to 18, you can use the greater than or equal to operator: age >= 18.
+
+Logical Operators:
+Logical operators are used to combine multiple conditions and return a Boolean value. Examples include AND (&&), OR (||), and NOT (!).
+Example:
+If you want to know if a person is eligible to vote and is a resident of a particular country, you can use the AND operator: eligible_to_vote && is_resident.
+
+Assignment Operators:
+Assignment operators are used to assign a value to a variable. Examples include equals (=), plus-equals (+=), minus-equals (-=), multiply-equals (*=), divide-equals (/=), and modulus-equals (%=).
+Example:
+If you want to assign a value of 10 to a variable called "num", you can use the equals operator: num = 10.
+
+Increment and Decrement Operators:
+Increment and decrement operators are used to increase or decrease the value of a variable by 1. Examples include increment (++), decrement (--).
+Example:
+If you want to increase the value of a variable "count" by 1, you can use the increment operator: count++.
+
+Bitwise Operators:
+Bitwise operators are used to perform operations on individual bits of a value. Examples include bitwise AND (&), bitwise OR (|), bitwise XOR (^), and bitwise complement (~).
+Example:
+If you want to set the 5th bit of a variable "value" to 1, you can use the bitwise OR operator: value |= 1<<5.
+			
+syntax :
+        Arithmetic Operators: These operators are used to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+Addition operator (+): Just like adding different ingredients to make a delicious recipe, the addition operator adds two values together. For example, 5 + 2 = 7, which is similar to adding 5 cups of flour to 2 cups of sugar to make a cake.
+
+Subtraction operator (-): This operator is used to subtract one value from another, just like removing an ingredient from a recipe. For example, 7 - 2 = 5, which is like removing 2 cups of sugar from a recipe that calls for 7 cups of sugar.
+
+Multiplication operator (*): This operator is used to multiply two values together, just like when you need to increase the quantity of a recipe. For example, 3 * 4 = 12, which is similar to multiplying 3 cups of flour by 4 to make a larger cake.
+
+Division operator (/): This operator is used to divide one value by another, just like when you need to divide a recipe in half. For example, 10 / 2 = 5, which is like dividing a recipe that serves 10 people into 2 portions.
+
+Comparison Operators: These operators are used to compare two values and return a boolean result (true or false).
+Greater than operator (>): This operator is used to compare if one value is greater than another. For example, 10 > 5 is true, which is like saying that a slice of pizza that is 10 inches is larger than a slice that is 5 inches.
+
+Less than operator (<): This operator is used to compare if one value is less than another. For example, 5 < 10 is true, which is like saying that a slice of pizza that is 5 inches is smaller than a slice that is 10 inches.
+
+Equal to operator (==): This operator is used to compare if two values are equal. For example, 2 + 2 == 4 is true, which is like saying that adding 2 cups of flour to 2 cups of sugar equals 4 cups.
+
+Logical Operators: These operators are used to perform logical operations and return a boolean result.
+AND operator (&&): This operator returns true only if both values being compared are true. For example, if you want to make a sandwich that has both lettuce and tomatoes, you would use the AND operator. lettuce && tomato is true only if both lettuce and tomato are present.
+
+OR operator (||): This operator returns true if either of the values being compared is true. For example, if you want to make a sandwich that has either lettuce or tomatoes, you would use the OR operator. lettuce || tomato is true if either lettuce or tomato is present.
+
+NOT operator (!): This operator negates the boolean value of a statement. For example, if you want to say that a sandwich does not have tomatoes, you would use the NOT operator. !tomato is true if there are no tomatoes in the sandwich.
+		
+===========================================================================================

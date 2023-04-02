@@ -1,0 +1,21 @@
+Arrays:   An array in C is a collection of data of the same type that are stored together in contiguous memory locations.
+
+
+Real world Example : 
+
+	When driving, we have a dashboard that displays various parameters like the speed, fuel level, engine temperature, etc. We can think of these parameters as individual variables.
+
+Now, let's assume we want to collect and store this data for analysis. Instead of creating individual variables for each parameter, we can create an array. For example, we can create an array named "carData" that contains elements like "speed", "fuel level", "engine temperature", and so on.
+
+Each element of the array would correspond to a specific parameter of the car, and we can access it using an index. For instance, "carData[0]" could correspond to the speed of the car, "carData[1]" could correspond to the fuel level, and so on.
+
+Using an array makes it easier to store and process data as we can loop through the array to access each parameter's value and perform calculations or analysis. It also allows us to organize related data into a single unit, making it more manageable and efficient to work with.
+		
+		
+syntax :
+       datatype arrayName[arraySize];
+ ex:- int myArray[5];
+
+		
+		
+===========================================================================================
